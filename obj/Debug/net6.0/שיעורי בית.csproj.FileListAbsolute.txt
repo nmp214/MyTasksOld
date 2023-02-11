@@ -1,0 +1,64 @@
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\bin\Debug\net6.0\שיעורי בית.exe
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\bin\Debug\net6.0\שיעורי בית.deps.json
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\bin\Debug\net6.0\שיעורי בית.runtimeconfig.json
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\bin\Debug\net6.0\שיעורי בית.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\bin\Debug\net6.0\שיעורי בית.pdb
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\שיעורי בית.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\שיעורי בית.AssemblyInfoInputs.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\שיעורי בית.AssemblyInfo.cs
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\שיעורי בית.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\scopedcss\bundle\שיעורי בית.styles.css
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\שיעורי בית.csproj.CopyComplete
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\שיעורי בית.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\refint\שיעורי בית.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\שיעורי בית.pdb
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\שיעורי בית.genruntimeconfig.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\obj\Debug\net6.0\ref\שיעורי בית.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\tasks\obj\Debug\net6.0\שיעורי בית.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\tasks\obj\Debug\net6.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\tasks\obj\Debug\net6.0\שיעורי בית.AssemblyInfoInputs.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\tasks\obj\Debug\net6.0\שיעורי בית.AssemblyInfo.cs
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\tasks\obj\Debug\net6.0\שיעורי בית.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\tasks\obj\Debug\net6.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\tasks\obj\Debug\net6.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\tasks\obj\Debug\net6.0\שיעורי בית.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\tasks\obj\Debug\net6.0\refint\שיעורי בית.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\tasks\obj\Debug\net6.0\שיעורי בית.pdb
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\שיעורי בית.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\שיעורי בית.AssemblyInfoInputs.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\שיעורי בית.AssemblyInfo.cs
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\שיעורי בית.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\שיעורי בית.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\refint\שיעורי בית.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\שיעורי בית.pdb
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\bin\Debug\net6.0\שיעורי בית.exe
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\bin\Debug\net6.0\שיעורי בית.deps.json
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\bin\Debug\net6.0\שיעורי בית.runtimeconfig.json
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\bin\Debug\net6.0\שיעורי בית.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\bin\Debug\net6.0\שיעורי בית.pdb
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\scopedcss\bundle\שיעורי בית.styles.css
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\שיעורי בית.csproj.CopyComplete
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\שיעורי בית.genruntimeconfig.cache
+C:\Users\Dell Vostro\Documents\תיכנות\שנה ב\Core\שיעור 2 ב בשבט\שיעורי בית\myTasks\obj\Debug\net6.0\ref\שיעורי בית.dll
